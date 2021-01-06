@@ -1,4 +1,4 @@
-# Github TIL
+# Python TIL
 
 ## 1. TIL?
 
